@@ -9,17 +9,17 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+1 469-996-3661</p>
+    <p>814 Kingswood Avenue</p>
+    <p>Richardson, Texas 75080</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fifth-year Ph.D. student in Computer Science at The University of Texas at Dallas, specializing in `Human-Computer Interaction (HCI)`, `haptics`, and `virtual reality (VR)`. My research focuses on enhancing immersiveness and realism in virtual environments by combining advanced haptic technologies with insights into human perception.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+A significant part of my work involves designing and prototyping multimodal systems that leverage perceptual illusions, such as thermal and tactile effects, to create intuitive and engaging user experiences. My passion lies in bridging the gap between the digital and physical worlds through innovative and user-centric solutions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As I approach the completion of my Ph.D., I am actively seeking research opportunities where I can apply my expertise in HCI, VR, and haptic design to solve real-world problems and contribute to impactful projects. I am excited to collaborate with teams that value creativity, innovation, and pushing the boundaries of technology.
