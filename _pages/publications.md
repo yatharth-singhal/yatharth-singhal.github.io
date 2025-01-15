@@ -17,10 +17,10 @@ nav_order: 2
 
 <h1> Conference Publications </h1>
 
-{% bibliography --file papers %}
+{% bibliography -f papers %}
 
 <h1> Conference Demonstrations </h1> 
 
-{% bibliography --file demos %}
+{% bibliography -f demos %}
 
 </div>
