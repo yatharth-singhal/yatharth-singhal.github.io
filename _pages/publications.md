@@ -21,6 +21,5 @@ nav_order: 2
 
 <h1> Conference Demonstrations </h1> 
 
-{% demo_bibliography %}
 
 </div>
