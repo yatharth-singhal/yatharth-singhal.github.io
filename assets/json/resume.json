@@ -82,31 +82,31 @@
       "title": "Outstanding Ph.D. Student in Computer Science",
       "date": "2024-12-15",
       "awarder": "The University of Texas at Dallas",
-      "summary": "Received the best Ph.D. student award for the year 2024 in the Computer Science department."
+      "summary": "Awarded the Outstanding Ph.D. Student honor in the Computer Science department for 2024."
     },
     {
       "title": "Best Demonstration Award",
       "date": "2024-10-25",
       "awarder": "IEEE ISMAR 2024",
-      "summary": "Received the award for the work `Demonstration of Thermal Flow Illusions with Tactile and Thermal Interaction`"
+      "summary": "Received the best demo award for my work <b> Demonstration of Thermal Flow Illusions with Tactile and Thermal Interaction </b>."
     },
     {
-      "title": "Outstanding Ph.D. Student in Computer Science",
+      "title": "Best Demo Honorable Mention Award",
       "date": "2024-10-12",
-      "awarder": "The University of Texas at Dallas",
-      "summary": "Received the best Ph.D. student award for the year 2024 in the Computer Science department."
+      "awarder": "ACM UIST 2024",
+      "summary": "Received the best demo honarable mention award for my work <b> Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction </b>."
     },
     {
-      "title": "Outstanding Ph.D. Student in Computer Science",
+      "title": "Honorable Mention for Best Demonstration Award",
       "date": "2024-04-17",
-      "awarder": "The University of Texas at Dallas",
-      "summary": "Received the best Ph.D. student award for the year 2024 in the Computer Science department."
+      "awarder": "IEEE Haptic Symposium 2024",
+      "summary": "Received the best demo honarable mention award for my work <b> Demonstrating Upper Body Thermal Referral and Tactile Masking for Localized Feedback </b>."
     },
     {
-      "title": "Outstanding Ph.D. Student in Computer Science",
+      "title": "Best Student Demonstration Award",
       "date": "2023-12-18",
       "awarder": "ACM SIGGRAPH ASIA 2023",
-      "summary": "Received the best Ph.D. student award for the year 2024 in the Computer Science department."
+      "summary": "Received the best student demo award for my work <b> FIRE: Mid-Air ThermoTactile Display </b>."
     }
   ],
   "certificates": [
