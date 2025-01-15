@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
+<h1> Conference Publications </h1>
+
 {% bibliography %}
+
+<h1> Conference Demonstrations </h1> 
+
+{% demo_bibliography %}
 
 </div>
