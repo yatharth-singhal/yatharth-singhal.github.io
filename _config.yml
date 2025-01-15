@@ -281,7 +281,6 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  demo_bibliography: demo.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -350,6 +349,7 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+  - _pages/blog.md
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
