@@ -80,31 +80,31 @@
   "awards": [
     {
       "title": "Outstanding Ph.D. Student in Computer Science",
-      "date": "2024-12-15",
+      "date": "December 2024",
       "awarder": "The University of Texas at Dallas",
       "summary": "Awarded the Outstanding Ph.D. Student honor in the Computer Science department for 2024."
     },
     {
       "title": "Best Demonstration Award",
-      "date": "2024-10-25",
+      "date": "October 2024",
       "awarder": "IEEE ISMAR 2024",
       "summary": "Received the best demo award for my work <b> Demonstration of Thermal Flow Illusions with Tactile and Thermal Interaction </b>."
     },
     {
       "title": "Best Demo Honorable Mention Award",
-      "date": "2024-10-12",
+      "date": "October 2024",
       "awarder": "ACM UIST 2024",
       "summary": "Received the best demo honarable mention award for my work <b> Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction </b>."
     },
     {
       "title": "Honorable Mention for Best Demonstration Award",
-      "date": "2024-04-17",
+      "date": "April 2024",
       "awarder": "IEEE Haptic Symposium 2024",
       "summary": "Received the best demo honarable mention award for my work <b> Demonstrating Upper Body Thermal Referral and Tactile Masking for Localized Feedback </b>."
     },
     {
       "title": "Best Student Demonstration Award",
-      "date": "2023-12-18",
+      "date": "December 2023",
       "awarder": "ACM SIGGRAPH ASIA 2023",
       "summary": "Received the best student demo award for my work <b> FIRE: Mid-Air ThermoTactile Display </b>."
     }
@@ -155,7 +155,7 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
+      "name": "Zur Elektrody/namik bewegter Körper", 
       "publisher": "Annalen der Physik",
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
