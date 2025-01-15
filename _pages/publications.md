@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: 
 nav: true
 nav_order: 2
@@ -17,9 +17,10 @@ nav_order: 2
 
 <h1> Conference Publications </h1>
 
-{% bibliography %}
+{% bibliography --file papers %}
 
 <h1> Conference Demonstrations </h1> 
 
+{% bibliography --file demos %}
 
 </div>
