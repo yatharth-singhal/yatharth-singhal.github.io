@@ -22,44 +22,7 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Multimodal Interaction Lab at UTD - Texas, USA",
-      "position": "Research Assistant",
-      "url": "https://mi-lab.io/",
-      "startDate": "Aug 2021",
-      "endDate": "Jul 2025",
-      "highlights": ["Developed multimodal haptic devices integrating thermal and tactile feedback, leveraging perceptual illusions such as thermal referral, thermal masking, and wetness illusion to enhance VR realism and user immersion.", "Conducted user studies to analyze the impact of multimodal haptics on perception and usability in virtual environments." , "Designed frameworks for optimizing thermal-tactile interactions, improving haptic device performance in immersive applications."]
-    },
-    {
-      "name": "Infosys - Bhubaneswar, India",
-      "position": "Systems Engineer",
-      "url": "https://www.infosys.com/",
-      "startDate": "Jun 2018",
-      "endDate": "Jun 2019",
-      "highlights": ["Excelled in technical training, securing top-tier performance and direct promotion to specialization, demonstrating rapid skill acquisition and application.", "Pioneered dashboard solutions, integrating cutting-edge technologies to streamline data analysis processes for high-profile healthcare and banking clients."]
-    },
-    {
-      "name": "SunnyBee - Chennai, India",
-      "position": "Web Application Development Intern",
-      "url": "https://waycool.in/",
-      "startDate": "May 2017",
-      "endDate": "Oct 2017",
-      "highlights": ["Analyzed market trends to develop a dynamic pricing algorithm, enhancing the accuracy and competitiveness of the F&V pricing system.", "Engineered real-time pricing engine for the market, integrating Python, HTML5, CSS3, JavaScript, jQuery, AJAX, and PHP to deliver responsive website solutions."]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  
   "education": [
     {
       "institution": "The University of Texas at Dallas",
@@ -166,6 +129,44 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "work": [
+    {
+      "name": "Multimodal Interaction Lab at UTD - Texas, USA",
+      "position": "Research Assistant",
+      "url": "https://mi-lab.io/",
+      "startDate": "Aug 2021",
+      "endDate": "Jul 2025",
+      "highlights": ["Developed multimodal haptic devices integrating thermal and tactile feedback, leveraging perceptual illusions such as thermal referral, thermal masking, and wetness illusion to enhance VR realism and user immersion.", "Conducted user studies to analyze the impact of multimodal haptics on perception and usability in virtual environments." , "Designed frameworks for optimizing thermal-tactile interactions, improving haptic device performance in immersive applications."]
+    },
+    {
+      "name": "Infosys - Bhubaneswar, India",
+      "position": "Systems Engineer",
+      "url": "https://www.infosys.com/",
+      "startDate": "Jun 2018",
+      "endDate": "Jun 2019",
+      "highlights": ["Excelled in technical training, securing top-tier performance and direct promotion to specialization, demonstrating rapid skill acquisition and application.", "Pioneered dashboard solutions, integrating cutting-edge technologies to streamline data analysis processes for high-profile healthcare and banking clients."]
+    },
+    {
+      "name": "SunnyBee - Chennai, India",
+      "position": "Web Application Development Intern",
+      "url": "https://waycool.in/",
+      "startDate": "May 2017",
+      "endDate": "Oct 2017",
+      "highlights": ["Analyzed market trends to develop a dynamic pricing algorithm, enhancing the accuracy and competitiveness of the F&V pricing system.", "Engineered real-time pricing engine for the market, integrating Python, HTML5, CSS3, JavaScript, jQuery, AJAX, and PHP to deliver responsive website solutions."]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "publications": [
