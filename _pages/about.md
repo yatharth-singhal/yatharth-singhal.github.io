@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fifth-year Ph.D. student in Computer Science at The University of Texas at Dallas, specializing in `Human-Computer Interaction (HCI)`, `haptics`, and `virtual reality (VR)`. My research focuses on enhancing immersiveness and realism in virtual environments by combining advanced haptic technologies with insights into human perception.
+I am a fifth-year Ph.D. student in Computer Science at The University of Texas at Dallas (Advisor: <a href="https://jessekim.com/"> Dr. Jin Ryong Kim </a>), specializing in `Human-Computer Interaction (HCI)`, `haptics`, and `virtual reality (VR)`. My research focuses on enhancing immersiveness and realism in virtual environments by combining advanced haptic technologies with insights into human perception.
 
 A significant part of my work involves designing and prototyping multimodal systems that leverage perceptual illusions, such as thermal and tactile effects, to create intuitive and engaging user experiences. My passion lies in bridging the gap between the digital and physical worlds through innovative and user-centric solutions.
 
