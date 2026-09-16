@@ -6,7 +6,8 @@
     "authors": "Yatharth Singhal, Abbas Khawaja, and Jin Ryong Kim",
     "kind": "Conference",
     "doi": "10.1145/3772318.3791603",
-    "video": "https://www.youtube.com/watch?v=D7x_3ejXOjo"
+    "video": "https://www.youtube.com/watch?v=D7x_3ejXOjo",
+    "pdf": "moisture-transfer-2026.pdf"
   },
   {
     "year": 2025,
@@ -16,7 +17,8 @@
     "kind": "Conference",
     "award": "Best Paper Honorable Mention",
     "doi": "10.1145/3746059.3747619",
-    "video": "https://www.youtube.com/watch?v=mppYt2M_2T0"
+    "video": "https://www.youtube.com/watch?v=mppYt2M_2T0",
+    "pdf": "heatflow-2025.pdf"
   },
   {
     "year": 2025,
@@ -25,7 +27,8 @@
     "authors": "Ayush Bhardwaj, Ashish Pratap, Abbas Khawaja, Yatharth Singhal, Hyunjae Gil, and Jin Ryong Kim",
     "kind": "Conference",
     "doi": "10.1145/3756884.3766050",
-    "video": "https://www.youtube.com/watch?v=HsCE6fQcQOU"
+    "video": "https://www.youtube.com/watch?v=HsCE6fQcQOU",
+    "pdf": "latency-sensitivity-2025.pdf"
   },
   {
     "title": "Wetness Illusion in Mid-Air",
