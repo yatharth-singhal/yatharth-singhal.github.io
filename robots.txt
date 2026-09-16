@@ -1,1 +1,3 @@
-User-agent: * Disallow: Sitemap: https://yatharth-singhal.github.io/sitemap.xml
+User-agent: *
+Allow: /
+Sitemap: https://yatharth-singhal.github.io/sitemap.xml
