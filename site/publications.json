@@ -1,0 +1,112 @@
+[
+  {
+    "year": 2026,
+    "venue": "CHI",
+    "title": "Moisture Transfer: A Perceptual Wetness Illusion Through Thermal and Wet Integration",
+    "authors": "Yatharth Singhal, Abbas Khawaja, and Jin Ryong Kim",
+    "kind": "Conference"
+  },
+  {
+    "year": 2025,
+    "venue": "UIST",
+    "title": "HeatFlow: A Thermal-Tactile Display for Dynamic 2D Thermal Movements",
+    "authors": "Yatharth Singhal, Daniel Honrales, and Jin Ryong Kim",
+    "kind": "Conference",
+    "award": "Best Paper Honorable Mention"
+  },
+  {
+    "year": 2025,
+    "venue": "VRST",
+    "title": "Understanding Latency Sensitivity in Thermal and Tactile Feedback for Multimodal Haptics in VR",
+    "authors": "Ayush Bhardwaj, Ashish Pratap, Abbas Khawaja, Yatharth Singhal, Hyunjae Gil, and Jin Ryong Kim",
+    "kind": "Conference"
+  },
+  {
+    "title": "Wetness Illusion in Mid-Air",
+    "year": 2024,
+    "venue": "ISMAR",
+    "authors": "Yatharth Singhal, Daniel Honrales, Hsin-Ni Ho, Jin Ryong Kim",
+    "kind": "Conference",
+    "doi": "10.1109/ISMAR62088.2024.00100"
+  },
+  {
+    "title": "Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction",
+    "year": 2024,
+    "venue": "UIST",
+    "authors": "Yatharth Singhal, Daniel Honrales, Haokun Wang, Jin Ryong Kim",
+    "kind": "Conference",
+    "doi": "10.1145/3654777.3676460",
+    "pdf": "uist_2024.pdf",
+    "video": "https://www.youtube.com/watch?v=Ab7SAsXQ2YM&t=2s&ab_channel=MultimodalInteractionLab-UTDallas"
+  },
+  {
+    "title": "Fiery Hands: Designing Thermal Glove through Thermal and Tactile Integration for Virtual Object Manipulation",
+    "year": 2024,
+    "venue": "UIST",
+    "authors": "Haokun Wang, Yatharth Singhal, Hyunjae Gil, Jin Ryong Kim",
+    "kind": "Conference",
+    "doi": "10.1145/3654777.3676457",
+    "pdf": "fiery-hands.pdf",
+    "video": "https://www.youtube.com/watch?v=rJKyFStx6w8&ab_channel=MultimodalInteractionLab-UTDallas"
+  },
+  {
+    "title": "Thermal Masking: When the Illusion Takes Over the Real",
+    "year": 2024,
+    "venue": "CHI",
+    "authors": "Haokun Wang, Yatharth Singhal, Hyunjae Gil, Jin Ryong Kim",
+    "kind": "Conference",
+    "doi": "10.1145/3613904.3641941",
+    "pdf": "chi_2024.pdf",
+    "video": "https://www.youtube.com/watch?v=GklwlCuPwv8&ab_channel=MultimodalInteractionLab-UTDallas"
+  },
+  {
+    "title": "Let It Snow: Designing Snowfall Experience in VR",
+    "year": 2024,
+    "venue": "IMWUT",
+    "authors": "Haokun Wang, Yatharth Singhal, Jin Ryong Kim",
+    "kind": "Journal",
+    "doi": "10.1145/3659587",
+    "pdf": "imwut_2024.pdf",
+    "video": "https://www.youtube.com/watch?v=CSaMbZ8epa4&ab_channel=MultimodalInteractionLab-UTDallas"
+  },
+  {
+    "title": "Fabric Thermal Display using Ultrasonic Waves",
+    "year": 2023,
+    "venue": "ISMAR",
+    "authors": "Haokun Wang, Yatharth Singhal, Jin Ryong Kim",
+    "kind": "Conference",
+    "doi": "10.1109/ISMAR59233.2023.00048",
+    "pdf": "ismar_2023.pdf",
+    "video": "https://www.youtube.com/watch?v=B5AjfdOlMEQ&ab_channel=MultimodalInteractionLab-UTDallas"
+  },
+  {
+    "title": "Upper Body Thermal Referral and Tactile Masking for Localized Feedback",
+    "year": 2023,
+    "venue": "TVCG",
+    "authors": "Hyungki Son*, Haokun Wang*, Yatharth Singhal*, and Jin Ryong Kim",
+    "kind": "Journal",
+    "doi": "10.1109/TVCG.2023.3247068",
+    "pdf": "tvcg_2023.pdf",
+    "video": "https://www.youtube.com/watch?v=oyJaMf_QsyY&ab_channel=MultimodalInteractionLab-UTDallas"
+  },
+  {
+    "title": "Improving Finger Stroke Recognition Rate for Eyes-Free Mid-Air Typing in VR",
+    "year": 2022,
+    "venue": "CHI",
+    "authors": "Yatharth Singhal, Richard Huynh Noeske, Ayush Bhardwaj, Jin Ryong Kim",
+    "kind": "Conference",
+    "doi": "10.1145/3491102.3502100",
+    "pdf": "chi_2022.pdf",
+    "video": "https://www.youtube.com/watch?v=umfPhzDFw1c&ab_channel=MultimodalInteractionLab-UTDallas"
+  },
+  {
+    "title": "Mid-Air Thermo-Tactile Feedback using Ultrasound Haptic Display",
+    "year": 2021,
+    "venue": "VRST",
+    "authors": "Yatharth Singhal, Haokun Wang, Hyunjae Gil, Jin Ryong Kim",
+    "kind": "Conference",
+    "doi": "10.1145/3489849.3489889",
+    "pdf": "vrst_2021.pdf",
+    "video": "https://www.youtube.com/watch?v=jyOeeBlCsYw&ab_channel=MultimodalInteractionLab-UTDallas"
+  }
+]
