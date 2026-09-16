@@ -4,7 +4,9 @@
     "venue": "CHI",
     "title": "Moisture Transfer: A Perceptual Wetness Illusion Through Thermal and Wet Integration",
     "authors": "Yatharth Singhal, Abbas Khawaja, and Jin Ryong Kim",
-    "kind": "Conference"
+    "kind": "Conference",
+    "doi": "10.1145/3772318.3791603",
+    "video": "https://www.youtube.com/watch?v=D7x_3ejXOjo"
   },
   {
     "year": 2025,
@@ -12,14 +14,18 @@
     "title": "HeatFlow: A Thermal-Tactile Display for Dynamic 2D Thermal Movements",
     "authors": "Yatharth Singhal, Daniel Honrales, and Jin Ryong Kim",
     "kind": "Conference",
-    "award": "Best Paper Honorable Mention"
+    "award": "Best Paper Honorable Mention",
+    "doi": "10.1145/3746059.3747619",
+    "video": "https://www.youtube.com/watch?v=mppYt2M_2T0"
   },
   {
     "year": 2025,
     "venue": "VRST",
     "title": "Understanding Latency Sensitivity in Thermal and Tactile Feedback for Multimodal Haptics in VR",
     "authors": "Ayush Bhardwaj, Ashish Pratap, Abbas Khawaja, Yatharth Singhal, Hyunjae Gil, and Jin Ryong Kim",
-    "kind": "Conference"
+    "kind": "Conference",
+    "doi": "10.1145/3756884.3766050",
+    "video": "https://www.youtube.com/watch?v=m8M2pAPfdxQ"
   },
   {
     "title": "Wetness Illusion in Mid-Air",
